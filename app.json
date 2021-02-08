@@ -27,6 +27,16 @@
       "value": "ZALA KA ASLI BAAP",
       "required": false
     },
+    "SUDO_USERS": {
+      "description": "GANGSTER H TUMHARA BAAP HAI ",
+      "value": "ZALA KA ASLI BAAP",
+      "required": TRUE
+    },
+    "SUDO_COMMAND_HAMD_LER": {
+      "description": "Fill your Full name. By default it is Hell User",
+      "value": ",",
+      "required": false
+    },
     "ALIVE_MSG": {
       "description": "Set Custom Alive Message When entering .hell Command.",
       "value": "",
