@@ -112,7 +112,7 @@
     },
     "HEROKU_API_KEY": {
       "description": "Go to https://dashboard.heroku.com/account, scroll down and press Reveal API.Required for updater to work.",
-      "value": "13d4bf65-2d9e-4f59-a8b2-3687124c92e0",
+      "value": "AAPNA WALA DAALNA HEROKU API",
       "required": true
     },
     "HEROKU_APP_NAME": {
